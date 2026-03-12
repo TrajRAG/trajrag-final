@@ -23,16 +23,6 @@ experiments and pipeline execution notebooks
 flight_radar_api.ipynb  
 load flights data
 
-requirements.txt  
-python dependencies
-
----
-
-# Installation
-
-Create a Python environment and install the dependencies:
-
-pip install -r requirements.txt
 
 ---
 
