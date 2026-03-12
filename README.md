@@ -1,4 +1,14 @@
+# TrajRAG Pipeline
 
+Anonymous implementation of the TrajRAG pipeline, a retrieval-augmented trajectory reconstruction framework designed to mitigate GPS spoofing attacks in aviation.
+The system reconstructs aircraft positions during periods where GPS signals are unavailable or corrupted by leveraging:
+
+- retrieval of historically similar flight trajectories
+- large language model reasoning
+- meteorological context
+- kinematic validation constraints
+
+This repository is provided for anonymous peer review.
 
 # Repository Structure
 
